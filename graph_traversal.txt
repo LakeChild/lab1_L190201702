@@ -1,0 +1,17 @@
+seek -> out
+out -> new
+new -> worlds,
+worlds, -> to
+to -> explore
+explore -> strange
+new -> civilizations
+
+Nodes visited:
+new
+worlds,
+explore
+to
+civilizations
+seek
+strange
+out
