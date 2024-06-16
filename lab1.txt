@@ -204,7 +204,7 @@ public class WordGraph {
         // Get the shortest path
         List<String> shortestPath = findShortestPath(graph, word1, word2);
 
-        // If no shortest path found, print message and retur1n
+        // If no shortest path found, print message and return
         if (shortestPath.isEmpty()) {
             System.out.println("No shortest path exists between " + word1 + " and " + word2 + ".");
             return;
